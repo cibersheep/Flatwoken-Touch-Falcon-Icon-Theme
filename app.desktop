@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=Icon Pack
+Name=Flatwoken Touch Icon Pack
 Exec=qmlscene qml/Main.qml
-Icon=logo.png
+Icon=icons/icon-pack.svg
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true

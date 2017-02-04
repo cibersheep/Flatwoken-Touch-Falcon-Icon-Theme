@@ -1,34 +1,78 @@
-# Icon Pack Template
-
-A template for creating an icon pack for [Falcon](https://open.uappexplorer.com/app/falcon.bhdouglass).
-This is a simple Ubuntu Touch app that can be uploaded to the app store and Falcon
-will be able to find it when installed on a user's phone.
-
-The example icons in this template come from the uNumix icon pack for Falcon
-currated by Joan Cibersheep.
-
-## Rational
-
-The old way that Falcon got it's icon packs was via a website that only I had
-access to. This severly limited other people from providing icon packs as
-they first had to contact me. With this model Falcon doesn't need to know about
-icon packs ahead of time as they are hosted by the app store and everyone has
-easy access to upload an icon pack. This is similar to a model I've seen in
-Android with cutom launchers & icon packs.
-
-## Building
-
-This app can be easily built and deployed using [clickable](https://github.com/bhdouglass/clickable).
-Without clickable you can package the click by running `click build .`.
-
-## License
-
-Copyright (C) 2017 [Brian Douglass](http://bhdouglass.com/)
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License version 3, as published
-by the Free Software Foundation.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranties of MERCHANTABILITY, SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
 # Flatwoken-Touch-Falcon-Icon-Theme
+
+Icon theme for Ubuntu Phone. It requires Falcon scope (https://open.uappexplorer.com/app/falcon.bhdouglass) installable through Open Store.
+
+##License
+Creative Commons 4.0 By-SA
+
+ (except for the icons that not made ex profeso (the ones from groups, cooperations, companies, etc.)
+
+##Icon pack based on Fkatwoken Icon Pack
+
+ Created by Alessandro Roncone
+
+##Also includes:
+
+
+* Camera icon CC-By Bodan Rosu
+
+* OSMScout icon CC3.0 by plainicon
+
+* Gallery, sword, USB & frog icons CC by freepik
+
+* Glasses icon CC3.0-By Bob Holzer
+
+* Clip icon CC3.0-By Hakan Yalcin
+
+* Tape & Submit icona CC3.0-By Arthur Shlain
+
+* Popcorn icon CC-By Centis MENANT
+
+* Radio icon CC-By Prosymbols
+
+* Pen icon CC-By Guilherme Simoes
+
+* Fower CC-By Jaqueline Fernandes
+
+* Cinema CC-By Lou Poupard
+
+* Turtle CC-By Anbileru Adaleru
+
+* Whirlpool CC-By Alexander Skowalsky
+
+* Rocket CC-By Nina Geometrieva
+
+* Pig CC-By Francesca Allegri
+
+* Highway CC-By Jonathan Li
+
+* Books CC-By Andrew Koszkalda
+
+* Tag CC-By Flaticon
+
+* Cinema CC-By Ker'is
+
+* Bulb CC-By MRFA
+
+* Satellite & RSS news icons CC-By Ralf Schmitzer
+
+* Alert sign CC-By Austin Condiff
+
+* Opening Sign CC-By Gregor Črešnar
+
+* Lamp icon CC-By iconsmind.com
+
+* Magnifying glass icon CC-By parkjisun
+
+* Terrorist icon CC-By Luis Prado
+
+* Alien icon CC-By Symbolon
+
+* Plane icon CC-By Diego Naive
+
+* Spring icon CC-By Abhimanyu Bose
+
+* Some icons I made myself
+
+* Some icons from Numix Project
+
